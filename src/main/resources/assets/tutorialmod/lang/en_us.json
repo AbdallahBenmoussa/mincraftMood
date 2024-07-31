@@ -1,0 +1,11 @@
+{
+  "item.tutorialmod.ruby" : "Ruby",
+  "item.tutorialmod.raw_ruby" : "Raw Ruby",
+  "item.tutorialmod.platinum" : "Platinum ingot",
+
+  "block.tutorialmod.ruby_block" : "Block of Ruby",
+  "block.tutorialmod.raw_ruby_block" : "RawBlock of Ruby",
+  "block.tutorialmod.platinum_block" : "Block of Platinum",
+
+  "itemgroup.ruby": "Ruby Group"
+}
