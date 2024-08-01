@@ -20,6 +20,7 @@ public class ModItemGroups {
                         entries.add(ModItems.PLATINUM);
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
+                        entries.add(ModBlocks.PLATINUM_BLOCK);
 
 
                     }).build());
