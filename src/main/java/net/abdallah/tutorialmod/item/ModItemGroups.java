@@ -20,6 +20,9 @@ public class ModItemGroups {
                         entries.add(ModItems.PLATINUM);
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
+                        entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
+                        entries.add(ModBlocks.NETHER_RUBY_ORE);
+                        entries.add(ModBlocks.RUBY_ORE);
 
 
                     }).build());
