@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "***",
+    "iii"
+  ],
+  "key": {
+    "*": {
+      "item": "tutorialmod:ruby"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+    },gigi
+    "result": {
+      "item": "tutorialmod:platinum",
+      "count" : 3
+    }
+}
